@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="068b88be-cd58-4876-a2ba-bd6ba3f56515" name="Default Changelist" comment="SSM框架总结">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试总结.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\JavaJDK\maven-3.5.4\repo" />
+        <option name="mavenHome" value="D:/JavaJDK/maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\JavaJDK\maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j95HfHFsqIM4TeJsYPZ8mYCFdc" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/IdeaHome" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\学习资料\学习文件\面试总结\主流框架\SSM框架" />
+      <recent name="E:\学习资料\学习文件\面试总结" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="068b88be-cd58-4876-a2ba-bd6ba3f56515" name="Default Changelist" comment="" />
+      <created>1603203380141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603203380141</updated>
+      <workItem from="1603203383607" duration="2082000" />
+    </task>
+    <task id="LOCAL-00001" summary="SSM框架总结">
+      <created>1603203667388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603203667388</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SSM框架总结" />
+    <option name="LAST_COMMIT_MESSAGE" value="SSM框架总结" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="279" y="30" key="CommitChangelistDialog2" timestamp="1603287186723">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="279" y="30" key="CommitChangelistDialog2/0.30.1366.738@0.30.1366.738" timestamp="1603287186723" />
+    <state x="128" y="84" key="DiffContextDialog" timestamp="1603244886830">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="128" y="84" key="DiffContextDialog/0.30.1366.738@0.30.1366.738" timestamp="1603244886830" />
+    <state x="274" y="128" key="Vcs.Push.Dialog.v2" timestamp="1603203670082">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="274" y="128" key="Vcs.Push.Dialog.v2/0.30.1366.738@0.30.1366.738" timestamp="1603203670082" />
+  </component>
+</project>
