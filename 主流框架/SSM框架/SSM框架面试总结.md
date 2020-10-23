@@ -1,5 +1,5 @@
 # SpringMVC总结
-##　基础概念
+## 基础概念
 
 ### 什么是SpringMVC
 
